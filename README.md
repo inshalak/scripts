@@ -1,4 +1,4 @@
-# scripts
+# Scripts
 
 ## AutoEmailSender.py
 **Description:** This is an automated email sender that utlises python's smtplib library which utlises SMTP to send emails. 587 is the default port used to ensure that SMTPS (secure) is used. It uses MIME to format the the email. 
